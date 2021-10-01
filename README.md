@@ -1,3 +1,5 @@
+# About
+Its a react application
 
 # local build
 yarn run build
