@@ -30,5 +30,5 @@ kubectl apply -f Kubernetes/deployment.yaml
 kubectl get pods
 
 
-#Deploy using helm
+# Deploy using helm
 helm install frontend frontend-chart/ --values frontend-chart/values.yaml
